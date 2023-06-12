@@ -1,5 +1,4 @@
 # US-Fast-Food-Analysis
-Analyzing factors encouraging fast food restaurants to enter the market
 
 The analysis aims to explore the relationship between these factors and the number of fast-food restaurants in each city. 
 In this project, the independent variables are the population, population density, the real income of citizens, and the number and brands of existing restaurants in the city. 
